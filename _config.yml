@@ -1,7 +1,7 @@
 # Site settings
 title: MY Blog
 SEOTitle: 庆雷的博客 | MY Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/gakki.jpg
 email: zhangqinglei2016@gmail.com
 description: "Every failure is leading towards success."
 keyword: "MY, MY Blog, 庆雷的博客, yikesaiting10"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/yikesaiting10/yikesaiting10.github.io.git" # yo
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/dog.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -84,8 +84,8 @@ kramdown:
 
 
 # Featured Tags
-#featured-tags: true                     # 是否使用首页标签
-#featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-tags: true                     # 是否使用首页标签
+featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
 
